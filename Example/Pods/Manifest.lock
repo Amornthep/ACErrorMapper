@@ -1,5 +1,5 @@
 PODS:
-  - ACErrorMapper (0.1.0)
+  - ACErrorMapper (1.0.0)
 
 DEPENDENCIES:
   - ACErrorMapper (from `../`)
@@ -9,7 +9,7 @@ EXTERNAL SOURCES:
     :path: "../"
 
 SPEC CHECKSUMS:
-  ACErrorMapper: 3fbd2fc1e93b7d050c7f362058bc7fd4b0ab5fac
+  ACErrorMapper: 3d8689e438a60e616400c5c5ef82aa7b752bc704
 
 PODFILE CHECKSUM: fd57d0ed4ed486abe0032c5ff1ca010a09ae8142
 
