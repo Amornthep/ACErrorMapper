@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'ACErrorMapper_Example' do
+  pod 'ACErrorMapper', :path => '../'
+
+  target 'ACErrorMapper_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

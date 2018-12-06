@@ -1,0 +1,16 @@
+PODS:
+  - ACErrorMapper (0.1.0)
+
+DEPENDENCIES:
+  - ACErrorMapper (from `../`)
+
+EXTERNAL SOURCES:
+  ACErrorMapper:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ACErrorMapper: 3fbd2fc1e93b7d050c7f362058bc7fd4b0ab5fac
+
+PODFILE CHECKSUM: fd57d0ed4ed486abe0032c5ff1ca010a09ae8142
+
+COCOAPODS: 1.5.3

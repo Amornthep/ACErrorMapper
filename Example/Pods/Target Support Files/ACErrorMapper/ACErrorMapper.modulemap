@@ -1,0 +1,6 @@
+framework module ACErrorMapper {
+  umbrella header "ACErrorMapper-umbrella.h"
+
+  export *
+  module * { export * }
+}

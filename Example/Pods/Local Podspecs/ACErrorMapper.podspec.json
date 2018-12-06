@@ -1,0 +1,22 @@
+{
+  "name": "ACErrorMapper",
+  "version": "0.1.0",
+  "summary": "A short description of ACErrorMapper.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/Amornthep/ACErrorMapper",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Amornthep": "illusion.zen@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/Amornthep/ACErrorMapper.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "ACErrorMapper/Classes/**/*"
+}
