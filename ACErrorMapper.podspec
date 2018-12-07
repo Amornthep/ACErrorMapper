@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ACErrorMapper'
-  s.version          = '1.0.0'
+  s.version          = '1.0.1'
   s.summary          = 'Error mapper'
 
 # This description is used to generate tags and improve search results.
@@ -31,7 +31,7 @@ Error Mapper.
   s.ios.deployment_target = '10.0'
 
   s.source_files = 'ACErrorMapper/Classes/**/*'
-  
+  s.swift_version = '4.2'
   # s.resource_bundles = {
   #   'ACErrorMapper' => ['ACErrorMapper/Assets/*.png']
   # }

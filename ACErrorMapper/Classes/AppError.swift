@@ -27,7 +27,7 @@ public struct AppError {
     public var applicationMessage:String?
     public var errorType:ErrorType?
     
-    init (code:String?, method:String?, input:String?, causeCode:String?, causeMessage:String?, type:ErrorType?){
+    public init (code:String?, method:String?, input:String?, causeCode:String?, causeMessage:String?, type:ErrorType?){
         self.method = method
         self.input = input
         self.causeCode = causeCode
@@ -36,7 +36,7 @@ public struct AppError {
         self.applicationCode = code
     }
     
-    init(){
+    public init(){
         
     }
 }
